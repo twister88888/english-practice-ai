@@ -53,10 +53,8 @@ http://localhost:3000
 ```
 
 🧠 Personajes disponibles
-William Shakespeare
-Albert Einstein
-Cleopatra
-Mahatma Gandhi
-Marilyn Monroe
-
-Cada uno con su estilo de respuesta personalizado.
+- William Shakespeare
+- Albert Einstein
+- Cleopatra
+- Mahatma Gandhi
+- Marilyn Monroe
