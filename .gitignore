@@ -1,0 +1,7 @@
+# Node modules
+node_modules/
+
+# Archivos de entorno
+.env
+
+.DS_Store
