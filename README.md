@@ -52,7 +52,7 @@ node server.js
 http://localhost:3000
 ```
 
-🧠 Personajes disponibles
+## 🧠 Personajes disponibles
 - William Shakespeare
 - Albert Einstein
 - Cleopatra
